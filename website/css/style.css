@@ -1,28 +1,3 @@
-/* Off the Shelf v.1.1.5 Style Index
-
-1. Default and Reset styles
-2. Global elements
-- 2.1 Buttons
-3. Fonts and Headings
-- 3.1 Fonts
-- 3.2 Headings
-4. Content Blocks used for positioning
-5. Landing page header and banner
-- 5.1 Header
-- 5.2 Banner
-6. Content
-- 6.1 Companies
-- 6.2 Features
-- 6.3 Testimonials
-- 6.4 Screenshots
-- 6.5 A Word from the Author
-- 6.6 Newsletter
-- 6.7 Pricing Table
-- 6.8 Video
-7. Social elements
-- 7.1 Contact form
-8. Landing page footer 
-
 /*------------------------------------------------------------------------------------------*/
 /* 1. Defaults & Reset of specific styles across browsers */
 /*------------------------------------------------------------------------------------------*/
@@ -380,7 +355,7 @@ overflow:hidden;
 /* 5.2 Banner */
 
 #banner {
-background:url(../images/backgrounds/bg_banner_8.jpg) no-repeat center top #999;
+background:url(../images/backgrounds/bg_banner_15.jpg) no-repeat center top #999;
 background-attachment:fixed;
 background-size:cover;
 -moz-background-size:cover;
